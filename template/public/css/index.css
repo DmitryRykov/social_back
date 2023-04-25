@@ -1,0 +1,20 @@
+.image {
+    width: 30px;
+}
+
+.lil{
+    list-style-type: none;
+}
+
+.href{
+    text-decoration: none;
+    color: black;
+}
+
+.imageh{
+    display: none;
+}
+
+.imageh1{
+    width: 25%;  
+}
